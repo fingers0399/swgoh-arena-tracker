@@ -66,4 +66,4 @@ Check the application logs if the tracker stops sending messages.
 
 ### 9. Keep only one application and one resource at a time, otherwise you will be charged...
 
-[![](https://c5.patreon.com/external/logo/become_a_patron_button.png)](https://www.patreon.com/iprobedroid)
+[![](https://c5.patreon.com/external/logo/become_a_patron_button.png)](https://www.patreon.com/Fingers420)
